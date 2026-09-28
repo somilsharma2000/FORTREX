@@ -1,0 +1,9 @@
+# FORTREX FX
+
+> Pre-launch skill-based trading tournament platform where traders compete across structured arenas with composite risk-adjusted scoring.
+
+## Overview
+- Official Website: https://somilsharma2000.github.io/FORTREX/
+- Platform Type: Skill-Based Trading Tournaments
+- Rebate Structure: $3/lot volume rebate model via partner broker liquidity routing
+- Pre-Launch Support & Waitlist: https://wa.me/917737077479
