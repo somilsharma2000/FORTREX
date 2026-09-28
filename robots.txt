@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://somilsharma2000.github.io/FORTREX/sitemap.xml
